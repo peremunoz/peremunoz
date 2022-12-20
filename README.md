@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @peremunoz
+<h1 align="center">Hi 👋, I'm Pere Muñoz</h1>
 - 👀 I’m interested in software engineering, cyber security, blockchain and networks.
 - 🌱 I’m currently learning some machine learning, network protocols and security, mobile development and software engineering.
 - 🎓 Mention in **Information Technologies and Human-Computer Interaction(HCI)** of Informatics Engineering at UdL.
