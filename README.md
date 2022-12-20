@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @peremunoz
 - 👀 I’m interested in software engineering, cyber security, blockchain and networks.
 - 🌱 I’m currently learning some introduction to the AI, network protocols and security, mobile development and software engineering.
+- 🎓 Mention in Information Technologies and Human-Computer Interaction(HCI) of Informatics Engineering at UdL.
 - 💞️ I’m looking to collaborate on web/mobile/blockchain projects.
 - 📫 You can reach me via:
   - Email: peremunozfiguerol33@gmail.com
