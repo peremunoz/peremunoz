@@ -7,7 +7,7 @@
 - 📫 How to reach me **peremunozfiguerol33@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peremunoz&label=Profile%20views&color=0e75b6&style=flat" alt="peremunoz" /> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peremunoz&show_icons=true&locale=en" alt="peremunoz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peremunoz&show_icons=true&locale=en&theme=onedark" alt="peremunoz" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
