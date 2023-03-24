@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in software engineering, cyber security, blockchain and networks.
 - 🌱 I’m currently learning distributed computing, network protocols and security, mobile development and software engineering.
-- 🎓 Mention in **Information Technologies and Human-Computer Interaction(HCI)** of Computer Engineering at UdL.
+- 🎓 Mention in **Information Technologies and Human-Computer Interaction (HCI)** of Computer Engineering at UdL.
 - 💞️ I’m looking to collaborate on web/mobile/blockchain projects.
 - 📫 How to reach me? **peremunozfiguerol33@gmail.com** or <a href="https://linkedin.com/in/peremunoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peremunoz" height="20" width="30" /></a>
 
