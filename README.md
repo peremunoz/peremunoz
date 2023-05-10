@@ -6,7 +6,10 @@
 - 💞️ I’m looking to collaborate on web/mobile/blockchain projects.
 - 📫 How to reach me? **peremunozfiguerol33@gmail.com** or <a href="https://linkedin.com/in/peremunoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peremunoz" height="20" width="30" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=peremunoz&label=Profile%20views&color=0e75b6&style=flat" alt="peremunoz" /><a href="https://wakatime.com/@7507ebcd-0d8e-41a9-b023-bc9998338e85"><img src="https://wakatime.com/badge/user/7507ebcd-0d8e-41a9-b023-bc9998338e85.svg" alt="Total time coded since Mar 24 2023" /></a> </p>
+<p align="left">
+<a href="https://wakatime.com/@7507ebcd-0d8e-41a9-b023-bc9998338e85"><img src="https://wakatime.com/badge/user/7507ebcd-0d8e-41a9-b023-bc9998338e85.svg" alt="Total time coded since Mar 24 2023" /></a>
+<img src="https://komarev.com/ghpvc/?username=peremunoz&label=Profile%20views&color=0e75b6&style=flat" alt="peremunoz" />
+</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=peremunoz&show_icons=true&locale=en&theme=dark" alt="peremunoz" />
 </p>
 
