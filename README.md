@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pere Muñoz</h1>
 
-- 👀 I’m interested in software engineering, cyber security, blockchain and networks.
+- 👀 I’m interested in software engineering, cyber security, blockchain, system programming and networks.
 - 🌱 I’m currently learning distributed computing, network protocols and security, mobile development and software engineering.
 - 🎓 Mention in **Information Technologies and Human-Computer Interaction (HCI)** of Computer Engineering at UdL.
 - 💞️ I’m looking to collaborate on web/mobile/blockchain projects.
