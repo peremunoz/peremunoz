@@ -6,9 +6,6 @@
 - 💞️ I’m looking to collaborate on web/mobile/blockchain projects.
 - 📫 How to reach me? **peremunozfiguerol33@gmail.com** or <a href="https://linkedin.com/in/peremunoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peremunoz" height="20" width="30" /></a>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=peremunoz&show_icons=true&locale=en&theme=dark" alt="peremunoz" />
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/peremunoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peremunoz" height="30" width="40" /></a>
