@@ -1,13 +1,13 @@
 # Hi, I'm Pere 👋
 
-Software Engineer & MSc Computer Science Student at **Aarhus University, Denmark** 🇩🇰.  
+Software Engineer & MSc Computer Engineering Student at **Aarhus University, Denmark** 🇩🇰.  
 Creator behind **[@pere.dev](https://pere.sh)**. Sharing resources, and tech career insights.
 
 ---
 
 ### 💻 Current Focus
 - 🎓 **MSc Computer Engineering** @ Aarhus University
-- ⚡ **Backend & Cloud Architecture:** C# / .NET 10, Microservices, Azure Containers
+- ⚡ **Backend & Cloud Architecture:** C# / .NET 10, Microservices, Azure, GCP
 - 🌐 **Web & Systems:** TypeScript, Angular, NestJS, Astro
 
 ---
