@@ -1,14 +1,16 @@
 # Hi, I'm Pere 👋
 
-Software Engineer & MSc Computer Engineering Student at **Aarhus University, Denmark** 🇩🇰.  
-Creator behind **[@pere.dev](https://pere.sh)**. Sharing resources, and tech career insights.
+Software Engineer at **GSP Lleida** & MSc Computer Engineering Student at **Aarhus University, Denmark** 🇩🇰.  
+Creator behind **[@pere.dev](https://pere.sh)**. Sharing resources, tech career insights and my personal experience in Spanish.
 
 ---
 
 ### 💻 Current Focus
+- 💼 **Software Engineer** @ GSP Lleida (Building and maintaining backend architecture, desktop .NET application & Cloud APIs for the internal laboratory system)
 - 🎓 **MSc Computer Engineering** @ Aarhus University
 - ⚡ **Backend & Cloud Architecture:** C# / .NET 10, Microservices, Azure, GCP
-- 🌐 **Web & Systems:** TypeScript, Angular, NestJS, Astro
+- 🌐 **Web Systems:** TypeScript, Angular, NestJS, Astro
+- 🤝 **Open Source:** Actively contributing to community projects to build more accessible, secure, and developer-friendly tools.
 
 ---
 
