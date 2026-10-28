@@ -10,7 +10,7 @@ Creator behind **[@pere.dev](https://pere.sh)**. Sharing resources, tech career 
 - 🎓 **MSc Computer Engineering** @ Aarhus University
 - ⚡ **Backend & Cloud Architecture:** C# / .NET 10, Microservices, Azure, GCP
 - 🌐 **Web Systems:** TypeScript, Angular, NestJS, Astro
-- 🤝 **Open Source:** Actively contributing to community projects to build more accessible, secure, and developer-friendly tools.
+- 🤝 **Open Source:** Actively contributing to community projects. Check out my [Open Source Showroom](https://oss.pere.sh/) ([Source Code](https://github.com/peremunoz/pere-sh-oss-project)) to see the accessible, secure, and developer-friendly tools I've helped build.
 
 ---
 
