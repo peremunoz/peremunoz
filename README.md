@@ -1,7 +1,7 @@
 # Hi, I'm Pere 👋
 
 Software Engineer at **GSP Lleida** & MSc Computer Engineering Student at **Aarhus University, Denmark** 🇩🇰.  
-Creator behind **[@pere.dev](https://pere.sh)**. Sharing resources, tech career insights and my personal experience in Spanish.
+Creator behind **[@pere.dev](https://www.pere.sh)**. Sharing resources, tech career insights and my personal experience in Spanish.
 
 ---
 
@@ -27,7 +27,7 @@ Creator behind **[@pere.dev](https://pere.sh)**. Sharing resources, tech career 
 ---
 
 ### 🌐 Connect & Resources
-- **Website & Resources:** [pere.sh](https://pere.sh)
+- **Website & Resources:** [pere.sh](https://www.pere.sh)
 - **LinkedIn:** [in/peremunoz](https://linkedin.com/in/peremunoz)
 - **Content:** [@pere.dev](https://tiktok.com/@pere.dev) *(TikTok / Instagram)*
 - **Contact:** contact.peredev@gmail.com
